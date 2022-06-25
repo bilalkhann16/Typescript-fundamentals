@@ -1,9 +1,6 @@
-function log(message){
-    console.log(message);
-}
+const hello  = "world";
+let hello2:string = 'hello'
+let hello1  = "foo";
+hello1 = 'changed the foo values.'
 
-var message = 'Hello World';
-log(message);
-
-const a  = '1'
-console.log(a);
+console.log(hello2);

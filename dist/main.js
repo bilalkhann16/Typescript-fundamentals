@@ -1,7 +1,5 @@
-function log(message) {
-    console.log(message);
-}
-var message = 'Hello World';
-log(message);
-var a = '1';
-console.log(a);
+var hello = "world";
+var hello2 = 'hello';
+var hello1 = "foo";
+hello1 = 'changed the foo values.';
+console.log(hello2);
